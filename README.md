@@ -1,11 +1,11 @@
-# HAnalytics: Predicting Employee Attrition (Salifort Motors) 📊
+# HAnalytics: Predicting Employee Attrition (Salifort Motors)
 
 This project is the **Capstone Project** for the **Google Advanced Data Analytics Professional Certificate** on Coursera. It demonstrates an end-to-end data science workflow, from data cleaning and exploratory data analysis (EDA) to building and tuning predictive models.
 
 ## Project Objective
 The goal of this project is to analyze a dataset from a fictional company, **Salifort Motors**, to identify the key factors driving employee turnover. By building a predictive model, aim to provide data-driven recommendations to help HR improve employee retention.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn (Logistic Regression, Decision Tree, Random Forest)
