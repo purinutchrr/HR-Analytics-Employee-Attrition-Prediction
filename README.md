@@ -3,13 +3,13 @@
 **Author:** Purinut Chairungrueang
 
 ## Project Overview
-This project is part of the **Google Advanced Data Analytics Professional Certificate**. It focuses on predicting employee attrition using machine learning to identify "red flags" in behavior. By moving from reactive to proactive analysis, this model provides actionable insights for data-driven retention.
+This project is part of the **Google Advanced Data Analytics Professional Certificate**. It focuses on predicting employee attrition using machine learning to identify red flags in behavior. By moving from reactive to proactive analysis, this model provides actionable insights for data-driven retention.
 
 ## Exploratory Data Analysis (EDA) & Key Insights
 Based on the refined dataset (after removing tenure outliers), several critical patterns were identified:
 
-* **The Retention Danger Zone:** Employees are most likely to leave between their **3rd and 5th year**. Resignations spike at year 3 and peak at year 5.
-* **Workload U-Shape:** Attrition is highest for employees with either too few (2) or too many (6-7) projects. The "Sweet Spot" for stability is **3-4 projects**.
+* **The Retention Danger Zone:** Employees are most likely to leave between their **3rd to 5th year**. Resignations spike at year 3 and peak at year 5.
+* **Workload U-Shape:** Attrition is highest for employees with either too few (2) or too many (6-7) projects. The Sweet Spot for stability is **3-4 projects**.
 * **Burnout of High Performers:** High performance does not guarantee retention. A cluster of leavers consisted of high-performers (Evaluation > 0.8) working extreme monthly hours (>250 hours).
 * **Satisfaction Threshold:** Employees with a satisfaction score below 0.4 are significantly more likely to leave, regardless of department or salary.
 
