@@ -34,5 +34,5 @@ Three models were evaluated: Logistic Regression, Decision Tree, and Random Fore
 
 ## Strategic Recommendations
 * **Workload Rebalancing:** Use the **Burnout Index** to trigger capacity audits and redistribute tasks, ensuring top talent is not over-leveraged.
-* **Retention Focus (Year 3-5):** Conduct **"Stay Interviews"** at the 3-year mark to discuss career growth and re-engage talent before the 5-year exit window.
-* **Optimal Project Load:** Maintain a "sweet spot" of **3-4 projects** per employee to balance engagement and prevent exhaustion.
+* **Retention Focus (Year 3-5):** Conduct **Stay Interviews** at the 3-year mark to discuss career growth and re-engage talent before the 5-year exit window.
+* **Optimal Project Load:** Maintain a sweet spot of **3-4 projects** per employee to balance engagement and prevent exhaustion.
